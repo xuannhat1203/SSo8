@@ -1,0 +1,10 @@
+div{
+    width: 400px;
+    background-color: rgb(218, 207, 207);
+    padding: 10px 10px;
+}
+h1:hover {
+    background-color: gray;
+    color: red;
+    margin-left: 20px;
+}

@@ -1,0 +1,15 @@
+@keyframes moveText {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(100%);
+    }
+}
+
+#movingText {
+    white-space: nowrap;
+    overflow: hidden;
+    color: greenyellow;
+    animation: moveText 5s linear infinite;
+}

@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.input{
+    background-color: yellow;
+}
+input{
+    width: 250px;
+}
+form{
+    padding: 15px 20px;
+    border: 1px solid black;
+    width: 300px;
+    background-color: pink;
+}
